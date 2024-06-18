@@ -1,0 +1,18 @@
+.navbar-container{
+    background-color: rgb(64, 38, 38);
+    padding: 2% 20px;
+    text-align: center;
+    color: rgb(243, 224, 202);
+    justify-content: space-between;
+    align-items: center;
+    height: 32px;
+}
+.nav-menu{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 10px 10px;
+    font-size: 28px;
+    padding: 5px 20px ;
+    border-radius: 15px;
+    background-color: grey;
+}
